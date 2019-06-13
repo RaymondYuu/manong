@@ -1,0 +1,7 @@
+0:0:0:0:0:0:0:1 - - [11/Jun/2019:19:11:27 +0800] "GET / HTTP/1.1" 200 1866 http-bio-8080-exec-1 761
+0:0:0:0:0:0:0:1 - - [11/Jun/2019:19:11:30 +0800] "GET /product_add?_=1560251487733 HTTP/1.1" 200 3645 http-bio-8080-exec-3 259
+0:0:0:0:0:0:0:1 - - [11/Jun/2019:19:11:30 +0800] "GET /ueditor/ueditor.config.js HTTP/1.1" 200 22936 http-bio-8080-exec-4 67
+0:0:0:0:0:0:0:1 - - [11/Jun/2019:19:11:30 +0800] "GET /js/product_add.js HTTP/1.1" 200 2801 http-bio-8080-exec-5 65
+0:0:0:0:0:0:0:1 - - [11/Jun/2019:19:11:31 +0800] "GET //ueditor/jsp/controller.jsp?action=config&&noCache=1560251491123 HTTP/1.1" 200 2481 http-bio-8080-exec-6 114
+0:0:0:0:0:0:0:1 - - [11/Jun/2019:19:11:31 +0800] "GET //ueditor/third-party/zeroclipboard/ZeroClipboard.swf?noCache=1560251491374 HTTP/1.1" 200 3933 http-bio-8080-exec-7 25
+0:0:0:0:0:0:0:1 - - [11/Jun/2019:19:11:32 +0800] "GET /product_category/list?id=1 HTTP/1.1" 200 129 http-bio-8080-exec-8 72
