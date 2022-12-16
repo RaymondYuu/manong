@@ -27,7 +27,7 @@
             <spring-context.version>4.3.19.RELEASE</spring-context.version>
             <spring-jdbc.version>4.1.3.RELEASE</spring-jdbc.version>
             <spring-aspects.version>4.1.3.RELEASE</spring-aspects.version>
-            <spring-webmvc.verison>4.3.19.RELEASE</spring-webmvc.verison>
+            <spring-webmvc.verison>5.2.20.RELEASE</spring-webmvc.verison>
             <spring-beans.version>4.3.19.RELEASE</spring-beans.version>
             <druid.version>1.0.9</druid.version>
             <mysql.version>8.0.11</mysql.version>
